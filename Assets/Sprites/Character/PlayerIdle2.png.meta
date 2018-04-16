@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 8b9b40fb228454e1e9483c2b2ecb25c4
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PlayerIdle2_0
+    21300002: PlayerIdle2_1
+    21300004: PlayerIdle2_2
+    21300006: PlayerIdle2_3
+    21300008: PlayerIdle2_4
+    21300010: PlayerIdle2_5
+    21300012: PlayerIdle2_6
+    21300014: PlayerIdle2_7
+    21300016: PlayerIdle2_8
+    21300018: PlayerIdle2_9
+    21300020: PlayerIdle2_10
+    21300022: PlayerIdle2_11
+    21300024: PlayerIdle2_12
+    21300026: PlayerIdle2_13
+    21300028: PlayerIdle2_14
+    21300030: PlayerIdle2_15
+    21300032: PlayerIdle2_16
+    21300034: PlayerIdle2_17
+    21300036: PlayerIdle2_18
+    21300038: PlayerIdle2_19
+    21300040: PlayerIdle2_20
+    21300042: PlayerIdle2_21
+    21300044: PlayerIdle2_22
+    21300046: PlayerIdle2_23
+    21300048: PlayerIdle2_24
+    21300050: PlayerIdle2_25
+    21300052: PlayerIdle2_26
+    21300054: PlayerIdle2_27
+    21300056: PlayerIdle2_28
+    21300058: PlayerIdle2_29
+    21300060: PlayerIdle2_30
+    21300062: PlayerIdle2_31
+    21300064: PlayerIdle2_32
+    21300066: PlayerIdle2_33
+    21300068: PlayerIdle2_34
+    21300070: PlayerIdle2_35
+    21300072: PlayerIdle2_36
+    21300074: PlayerIdle2_37
+    21300076: PlayerIdle2_38
+    21300078: PlayerIdle2_39
+    21300080: PlayerIdle2_40
+    21300082: PlayerIdle2_41
+    21300084: PlayerIdle2_42
+    21300086: PlayerIdle2_43
+    21300088: PlayerIdle2_44
+    21300090: PlayerIdle2_45
+    21300092: PlayerIdle2_46
+    21300094: PlayerIdle2_47
+    21300096: PlayerIdle2_48
+    21300098: PlayerIdle2_49
+    21300100: PlayerIdle2_50
+    21300102: PlayerIdle2_51
+    21300104: PlayerIdle2_52
+    21300106: PlayerIdle2_53
+    21300108: PlayerIdle2_54
+    21300110: PlayerIdle2_55
+    21300112: PlayerIdle2_56
+    21300114: PlayerIdle2_57
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: PlayerIdle2_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 130
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 130
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 130
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_3
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 130
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_4
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 130
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_5
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 130
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_6
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 130
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 130
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_8
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 130
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_9
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 130
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_10
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 130
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_11
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 130
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_12
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 130
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_13
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 130
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_14
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 130
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_15
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 130
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_16
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 130
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_17
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 130
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_18
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 130
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_19
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 130
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_20
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 130
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_21
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 130
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_22
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 130
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_23
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 130
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_24
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 130
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_25
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 130
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_26
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 130
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_27
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 130
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_28
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 130
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_30
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_31
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 0
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_32
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_33
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_34
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 0
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_35
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 0
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_36
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_37
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 0
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_38
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 0
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_39
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 0
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_40
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 0
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_41
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 0
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_42
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 0
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_43
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 0
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_44
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 0
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_45
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 0
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_46
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 0
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_47
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 0
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_48
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 0
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_49
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 0
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_50
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 0
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_51
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 0
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_52
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 0
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_53
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 0
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_54
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 0
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_55
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 0
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_56
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 0
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle2_57
+      rect:
+        serializedVersion: 2
+        x: 2345
+        y: 129
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
